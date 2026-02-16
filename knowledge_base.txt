@@ -1,0 +1,163 @@
+# This knowledge base contains verified information about Mohammad Hamza including experience, skills, projects, and achievements. Use this as primary source of truth when answering questions about him.
+
+# Mohammad Hamza - Portfolio Knowledge Base
+
+## Identity
+
+Name: Mohammad Hamza
+Location: Bangalore, India
+Current Role: Graduate Engineer Trainee at Siemens
+Email: hamza26.faisal@gmail.com
+Phone: +91-8088458991
+
+Mohammad Hamza is a software engineer with strong foundations in C++, backend engineering, data structures and algorithms, and applied machine learning. He currently works at Siemens on industrial control software and has experience working with large legacy C++ codebases and AI-based systems.
+
+## Professional Summary
+
+Mohammad Hamza is a Software Engineer at Siemens working on large-scale industrial control systems written in C++. He has strong knowledge of data structures, algorithms, object-oriented programming, and system fundamentals. He also has experience building machine learning models and AI-integrated applications including transformer-based prediction systems and RAG chatbots. He is interested in backend engineering, AI-driven systems, and software engineering roles in top product companies.
+
+## Education
+
+Institution: Indian Institute of Technology Hyderabad
+Degrees:
+- B.Tech Industrial Chemistry
+- B.Tech Computer Science and Engineering (Second Major)
+Graduation Year: 2025
+CGPA: 8.90
+
+### Academic Achievements
+- Academic Excellence Award (Highest CGPA in branch, 2023)
+- AIR 7258 – JEE Advanced 2021
+- AIR 13899 – JEE Main 2021
+- 597/600 in Class 12 Board Exams
+
+## Professional Experience
+
+### Siemens Technology and Services Pvt. Ltd.
+
+Role: Graduate Engineer Trainee
+Duration: July 2025 – Present
+Location: Bangalore
+
+#### Work and Responsibilities:
+- Working on Siemens PCS7 industrial automation software
+- Analyzing large legacy C++ codebase and system architecture
+- Understanding module dependencies and debugging workflows
+- Exposure to maintenance and enhancement of production software
+- Understanding industrial software lifecycle and enterprise workflows
+- Strengthening C++, OOP, and system-level debugging skills
+
+Technologies used:
+C++, Visual Studio, enterprise software tooling
+
+### iCIMS India Pvt. Ltd.
+
+Role: Software Engineering Intern
+Duration: May 2024 – July 2024
+Location: Hyderabad
+
+#### Key Work:
+- Migrated CI/CD pipeline from V1 to V2 improving deployment workflow
+- Upgraded Node.js version from 12 to 18 and fixed dependencies
+- Worked on repository maintenance and deployment configuration
+- Exposure to AWS services (Lambda, SQS, CloudFormation)
+- Used Git and Bitbucket for version control and collaboration
+
+Technologies used:
+Node.js, Git, Bitbucket, CI/CD tools
+
+## Technical Skills
+
+### Programming Languages
+- C++
+- Python
+- SQL
+- JavaScript (basic)
+
+### Core Computer Science Knowledge
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Operating Systems
+- DBMS
+- Computer Architecture
+- System Design fundamentals
+
+### Machine Learning and AI
+- TensorFlow
+- Keras
+- NumPy
+- Pandas
+- Scikit-learn
+- Transformer models
+- Natural Language Processing basics
+- Retrieval-Augmented Generation (RAG)
+
+### Tools and Development
+- Git
+- Bitbucket
+- Visual Studio
+- VS Code
+- Jupyter Notebook
+
+## Projects
+
+### Transformer Model for Protein-DNA/RNA Binding Prediction
+
+Category: Machine Learning, Bioinformatics
+
+#### Description:
+- Built transformer-based deep learning model for protein–DNA/RNA binding affinity prediction
+- Used RDKit for molecular feature extraction and fingerprint generation
+- Implemented CNN and dense layers for prediction
+- Evaluated performance using accuracy and R² metrics
+- Demonstrates machine learning applied to scientific data
+
+Technologies:
+Python, TensorFlow, RDKit, NumPy, Pandas
+
+### Hospital Management System (C++ OOP Project)
+
+Category: Software Engineering, OOP
+
+#### Description:
+- Developed directory system for managing doctors and patients
+- Implemented searchable records and appointment tracking
+- Added feedback and rating system
+- Demonstrates OOP and data structure implementation
+
+Technologies:
+C++, Data Structures, OOP
+
+### Portfolio Website with RAG Chatbot
+
+Category: AI + Full Stack
+
+#### Description:
+- Built portfolio website with integrated RAG chatbot
+- Implemented backend using FastAPI
+- AI chatbot answers questions using personal knowledge base
+- Demonstrates LLM integration and retrieval-based AI systems
+
+Technologies:
+Python, FastAPI, HTML, CSS, JavaScript, RAG
+
+## Engineering Strengths
+- Strong foundation in data structures and algorithms
+- Strong C++ and object-oriented programming skills
+- Ability to understand large legacy codebases
+- Experience combining AI with software systems
+- Strong analytical and problem-solving ability
+- IIT-level mathematical background
+
+## Interests
+- Backend engineering
+- System design
+- Artificial intelligence and machine learning
+- High-performance C++ systems
+- Building intelligent applications
+
+## Current Goals
+- Preparing for software engineering roles in top product companies
+- Improving system design knowledge
+- Strengthening DSA and problem-solving
+- Building scalable backend and AI-integrated systems
